@@ -64,7 +64,7 @@ const App = () => {
               className='rounded-2xl flex flex-col items-center text-center p-2 text-white'
             >
               <img
-                className='w-full h-75 object-cover border-green-400 rounded-xl border-2 hover:border-yellow-300 hover:scale-105 transition-all duration-300'
+                className='w-full h-78 object-cover border-green-400 rounded-xl border-2 hover:border-yellow-300 hover:scale-105 transition-all duration-300'
                 src={data.poster_path}
                 alt={data.title}
               />
